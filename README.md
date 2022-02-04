@@ -33,7 +33,7 @@
 
 <div>
   Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha)](https://github.com/Suveksha/Suveksha/blob/master/README.md)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha&theme=tokyonight)
 </div>
 
 <h3>:zap: Activity Graph</h3>
