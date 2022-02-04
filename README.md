@@ -31,11 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suveksha&theme=vue"/>
 </div>
 
-<div>
-  Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha&theme=tokyonight)
-</div>
-
 <h3>:zap: Activity Graph</h3>
   <img src="https://activity-graph.herokuapp.com/graph?username=Suveksha&theme=minimal"/>
 
