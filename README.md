@@ -21,8 +21,8 @@
 &nbsp;👩🏻‍💻&nbsp; I’m currently working as a Product Engineer in Pepcoding Education Private Limited. <br/>
 &nbsp;👩🏻‍🎓&nbsp; I have completed my B.Tech. in Computer Science and Engineering Hons. from Lovely Professional University.<br />
 &nbsp;⏳ &nbsp; Currently I'm working on improving my skills and learning more about web development. <br />
-&nbsp;💆🏼‍♀️ &nbsp; My hobbies include reading books &nbsp;📚&nbsp;, sketching 🎨, listening music 🎶 and walking 🚶🏻‍♀️.  <br />
-&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:suvekshachettri04@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
+&nbsp;💆🏼‍♀️ &nbsp; My hobbies include reading books &nbsp;📚&nbsp;,sketching &nbsp;🎨&nbsp;, listening music &nbsp;🎶 &nbsp;and walking &nbsp;🚶🏻‍♀️.  <br />
+&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Suveksha Chettri](mailto:suvekshachettri04@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
 
   
 <h3>:zap: GitHub Profile Card</h3>
