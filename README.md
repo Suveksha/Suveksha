@@ -33,7 +33,7 @@
 
 <div>
   Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha)](https://github.com/Suveksha/Suveksha/blob/master/README.md)
 </div>
 
 <h3>:zap: Activity Graph</h3>
@@ -48,6 +48,5 @@
 
 <h3>:zap: Streak Stats</h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suveksha" />
-  
-<div>![Profile View Counter](https://komarev.com/ghpvc/?username=Suveksha)</div>
+
 
