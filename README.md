@@ -31,6 +31,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suveksha&theme=vue"/>
 </div>
 
+<div>
+  Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suveksha&theme=blue-green)
+</div>
+
 <h3>:zap: Activity Graph</h3>
   <img src="https://activity-graph.herokuapp.com/graph?username=Suveksha&theme=minimal"/>
 
@@ -43,4 +48,6 @@
 
 <h3>:zap: Streak Stats</h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suveksha" />
+  
+<div>![Profile View Counter](https://komarev.com/ghpvc/?username=Suveksha)</div>
 
