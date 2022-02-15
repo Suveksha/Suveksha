@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <br><span align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </span><br> <span align="center">Welcome to my<br><span style="text-align:center">Github</span> <span align="center"> Account</span></h1>
+<h1 align="center"> Hi there <br><span align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </span><br> <span align="center">Welcome to my<br><span style="text-align:center">Github</span><br><span align="center"> Account</span></h1>
 <div align="center">
   
 ### Nice to meet you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Suveksha)
@@ -18,7 +18,7 @@
   
 ## Let me introduce myself:
 
-&nbsp;👩🏻‍💻&nbsp; I’m currently working as a Product Engineer in Pepcoding Education Private Limited. <br/>
+&nbsp;👩🏻‍💻&nbsp; I’m currently working as a Product Engineer in Pepcoding Education Pvt. Ltd. <br/>
 &nbsp;👩🏻‍🎓&nbsp; I have completed my B.Tech. in Computer Science and Engineering Hons. from Lovely Professional University.<br />
 &nbsp;⏳ &nbsp; Currently I'm working on improving my skills and learning more about web development. <br />
 &nbsp;💆🏼‍♀️ &nbsp; My hobbies include reading books &nbsp;📚&nbsp;,sketching &nbsp;🎨&nbsp;, listening music &nbsp;🎶 &nbsp;and walking &nbsp;🚶🏻‍♀️.  <br />
