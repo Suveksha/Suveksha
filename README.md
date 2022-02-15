@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my ✨ <br><span style="text-align:center">Github Account</span></h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br> <span align="center">Welcome to my<br><span style="text-align:center">Github Account</span></h1>
 <div align="center">
   
 ### Nice to meet you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Suveksha)
